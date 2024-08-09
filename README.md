@@ -30,7 +30,7 @@ The MNIST dataset consists of 28x28 grayscale images of handwritten digits, labe
 - **Activation Function**: ReLU.
 - **Output**: 10 neurons with Log-Softmax.
 
-##Results
+## Results
 After training the models for 50 epochs, the following results were observed on the test set:
 -**Perceptron**: Achieved an accuracy of ~98.15%.
 -**Deep Neural Network**: Achieved an accuracy of ~95.76%.
